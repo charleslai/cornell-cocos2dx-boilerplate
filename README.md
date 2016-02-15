@@ -1,5 +1,5 @@
 # cornell-cocos2dx-boilerplate
-Boilerplate Repo for CS 4152 projects in Cocos2d-x at Cornell
+Boilerplate repo aimed at helping CS 4152 students create a Cornell Cocos2d-x game, maintain clean version control, and utilize continuous integration using Travis CI.
 
 ## Prerequesites
 You must have the Cornell version of Cocos2d-x installed. Typing `cocos` in the
