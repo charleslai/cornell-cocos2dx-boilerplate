@@ -306,4 +306,4 @@ _Pvt_Extensions
 
 # MEGA IMPORTANT
 # Ignore the cocos engine
-!SpectrumStudios/cocos2d/*
+!CompanyName/GameName/cocos2d/*
